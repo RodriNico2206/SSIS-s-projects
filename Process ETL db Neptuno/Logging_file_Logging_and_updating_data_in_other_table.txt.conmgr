@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="Logging_file_Logging_and_updating_data_in_other_table.txt"
+  DTS:DTSID="{50A06E80-75AD-41ED-BAA9-019AD954E07F}"
+  DTS:CreationName="FILE">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="D:\SSIS Practice\Activity_Practice_SSIS\Logging_file_Logging_and_updating_data_in_other_table.txt" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="Logging_file_Merge_Join_between_Tables.txt"
+  DTS:DTSID="{2DC0483A-6B17-43F8-96A1-67D1BEED1523}"
+  DTS:CreationName="FILE">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="D:\SSIS Practice\Activity_Practice_SSIS\Logging_file_Merge_Join_between_Tables.txt" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="Logging_file_Load_Data.txt"
+  DTS:DTSID="{8E7DC20D-0CFA-481D-BF03-214E0FC08C66}"
+  DTS:CreationName="FILE">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="D:\SSIS Practice\Activity_Practice_SSIS\Logging_file_Load_Data.txt" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
