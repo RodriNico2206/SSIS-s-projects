@@ -4,8 +4,7 @@ SSIS project based on developments of processes ETL
 
 parte 1
 [https://github.com/user-attachments/assets/8007b1fd-e66f-49a8-b3de-a2bff615f6cd
-](https://github.com/user-attachments/assets/331a86bb-e1d4-45c1-a11f-0f67cbc36b9e
-)
+](https://github.com/user-attachments/assets/331a86bb-e1d4-45c1-a11f-0f67cbc36b9e)
 
 
 parte 2
